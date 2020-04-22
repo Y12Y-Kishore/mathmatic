@@ -4,7 +4,14 @@ def add():
     c=a+b
     print(c)
 add()
+
+def mul():
+    c=a*b
+    print(c)
+mul()
+
 def sub():
     c=a-b
     print(c)
 sub()
+
